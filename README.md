@@ -2,7 +2,7 @@
 # Scraping Twitter for Corporate Espionage
 ## (Using Webscraping, Facial Recognition and ML)
 
-![headline](headline.png "Twitter Project")
+![headline](Images/headline.png "Twitter Project")
 
 
 ```python
