@@ -74,7 +74,7 @@ for i in list(df["url"]):
 df["url_detect"] = array
 ```
 
-![headline](profile.png "profile")
+![headline](Images/profile.png "profile")
 
 
 ```python
@@ -189,7 +189,7 @@ for i in range(len(new_whitelist)):
 individual_keywords = new_whitelist
 ```
 
-![headline](individual_keywords.png "Individual Keywords")
+![headline](Images/individual_keywords.png "Individual Keywords")
 
 
 ```python
@@ -244,7 +244,7 @@ for i in range(len(new_whitelist)):
 business_keywords = new_whitelist
 ```
 
-![headline](business_keywords.png "Individual Keywords")
+![headline](Images/business_keywords.png "Individual Keywords")
 
 
 ```python
